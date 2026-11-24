@@ -1,4 +1,3 @@
-
 # Avaliador de Robustez de LLM & Testador de Guardrails
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00ff88?style=flat-square&logo=github)](https://tavardt-brasil.github.io/llm-robustness-evaluator-br/)
@@ -80,6 +79,20 @@ O blueprint defensivo inclui:
 ## Licença
 
 MIT License  -  uso livre para fins defensivos e educacionais.
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: [TAVARDT Brasil](https://ag.tavardt.com/br/) (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: [Central de Ferramentas TAVARDT](https://tools.tavardt.com/br/)
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 
